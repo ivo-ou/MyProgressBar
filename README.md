@@ -19,3 +19,7 @@
 
 ## Tips
 ### 工作之余编写，不足之处请谅解
+![image](https://user-images.githubusercontent.com/61071751/148907587-3d6fc89f-2629-4c63-bf62-ca2b6d2edc7d.png)
+![image](https://user-images.githubusercontent.com/61071751/148907619-c8c37fbd-fde9-4c04-9ba8-35be17c13862.png)
+![image](https://user-images.githubusercontent.com/61071751/148907713-fce969b9-ffe9-49ce-ae6a-3349b88db17e.png)
+![image](https://user-images.githubusercontent.com/61071751/148907534-98b49355-8a94-42d9-be99-177b6e4f987d.png)
